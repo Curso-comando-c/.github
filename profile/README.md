@@ -1,20 +1,20 @@
-<div align="center">
+<p align="center">
 <img src="sources/arvore.png" width="35%">
-</div>
+</p>
 
 # O Projeto Comando
 ###### de aluno para aluno
 Um Projeto de Extensão da UTFPR, campus Ponta Grossa, com a missão de transmitir ensino técnico de qualidade para todos os apreciadores da programação no Brasil.
 
-<div align="right">
+<p align="right">
   <img src="sources/estrela.png">
-</div>
+</p>
 
 # Tecnologias que usamos
+<p>
+  <img src="sources/manim-logo.png" width="300px">
+</p>
 
-
-
-
-<div>
+<p>
   <img src="sources/comando.png">
-</div>
+</p>
